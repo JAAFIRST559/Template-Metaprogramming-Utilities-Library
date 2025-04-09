@@ -1,16 +1,12 @@
-[![CI](https://github.com/jonathanpoelen/jln.mp/actions/workflows/ci.yml/badge.svg)](https://github.com/jonathanpoelen/jln.mp/actions?query=workflow%3ACI)
+# HEY THERE! I'm JASMINE ILAKKIA NEVISKENNEDY!!!
+
+[![CI](https://github.com/JAAFIRST559/Template-Metaprogramming-Utilities-Library)](https://github.com/JAAFIRST559/Template-Metaprogramming-Utilities-Library)
 
 # Jln.Mp: A C++17 metaprogramming library
 
-[Jln.mp](https://github.com/jonathanpoelen/jln.mp) is a C++17 metaprogramming library designed for fast compilation speed (strongly inspired by [Kvasir::mpl](https://github.com/kvasir-io/mpl), but generally faster, with more algorithm and a debug mode to have errors with more context).
+[Jln.mp](https://github.com/JAAFIRST559/Template-Metaprogramming-Utilities-Library) is a C++17 metaprogramming library designed for fast compilation speed (strongly inspired by [Kvasir::mpl](https://github.com/kvasir-io/mpl), but generally faster, with more algorithm and a debug mode to have errors with more context).
 
-Licence: MIT
 
-Online documentation: https://jonathanpoelen.github.io/jln.mp/
-
-Online documentation for v1: https://jonathanpoelen.github.io/jln.mp/v1/
-
-Single file version in [standalone branch](https://github.com/jonathanpoelen/jln.mp/tree/standalone).
 
 ## Concepts
 
