@@ -1,6 +1,6 @@
 # HEY THERE! I'm JASMINE ILAKKIA NEVISKENNEDY!!!
 
-[![CI](https://github.com/JAAFIRST559/Template-Metaprogramming-Utilities-Library)](https://github.com/JAAFIRST559/Template-Metaprogramming-Utilities-Library)
+[![PROJECT LINK](https://github.com/JAAFIRST559/Template-Metaprogramming-Utilities-Library)](https://github.com/JAAFIRST559/Template-Metaprogramming-Utilities-Library)
 
 # Jln.Mp: A C++17 metaprogramming library
 
